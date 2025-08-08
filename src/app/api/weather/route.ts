@@ -73,6 +73,7 @@ export const GET = async (req: NextRequest) => {
     req.headers
   );
 
+
   if (resWea?.status != "1")
     return NextResponse.json({
       data: "error: weather",
