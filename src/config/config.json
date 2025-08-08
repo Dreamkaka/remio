@@ -1,10 +1,11 @@
 {
-  "name": "KASUIEの主页✨",
+  "name": "幻梦晓寒kaka",
   "favicon": "/favicon.ico",
-  "keywords": "remio,rem,mio,C.C.,KASUIEの次元,KASUIE的个人博客,KASUIE,个人主页,主页,个人记录,技术博客,个人生活",
-  "description": "KASUIEの次元，兴趣至上，内容随缘，个人主页",
+  "keywords": "幻梦晓寒,Dreamkaka,个人主页,HMXHKAKA",
+  "description": "晓寒の互联网自留之地",
+  "domain": "https://xiaohan-kaka.top",
   "avatarConfig": {
-    "src": "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp",
+    "src": "https://f003.backblazeb2.com/file/blog-v3/120887894_p1.jpg",
     "size": 150,
     "round": "full",
     "style": "wave",
@@ -13,185 +14,158 @@
     "aloneRight": false
   },
   "bgConfig": {
-    "bg": ["https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp"],
-    "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"],
+    "bg": [
+      "https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp"
+    ],
+    "mbg": [
+      "https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"
+    ],
+    "audio": null,
     "bgStyle": "snow",
-    "blur": "",
+    "blur": "sm",
     "cardOpacity": 0.1,
-    "carousel": true,
     "carouselGap": 5,
-    "transitionTime": 0.7,
     "transitionStyle": "default",
-    "autoAnimate": false
+    "transitionTime": 0.7,
+    "carousel": false,
+    "autoAnimate": true
   },
   "globalStyle": {
     "primaryColor": "#0dbf56",
     "theme": "switcher",
+    "fallback": null,
+    "fonts": null,
     "weather": true
   },
   "layoutConfig": {
     "gapSize": "lg",
-    "style": "",
+    "style": "horizontal",
     "istTransition": true
   },
   "subTitle": "https://v1.hitokoto.cn?c=a&c=b&c=c",
   "subTitleConfig": {
-    "typing": true,
     "loading": "wave",
+    "typingGap": 10,
+    "style": "desc",
+    "desc": "一个学生党；目前正在学习ts和python~",
+    "content": "你好啊,这里是幻梦晓寒",
+    "gapDelay": 0.05,
+    "heart": true,
+    "typing": true,
     "loopTyping": true,
     "shadow": false,
     "typingCursor": true,
-    "showFrom": true,
-    "style": "desc",
-    "gapDelay": 0.05,
-    "content": "Hello💫，这里是kasuieの主页",
-    "desc": "kasuie是自己胡乱起的，也可以叫我暖暖;已经毕业快两年半了，主要捣鼓一些前端，会点点后端，目标是成为一个温柔的全栈开发，好耶！🥰"
+    "showFrom": true
   },
   "links": [
     {
       "title": "qq",
       "color": "#dfba00",
-      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
+      "url": "https://qm.qq.com/q/eWRfDCjXCS",
       "icon": "qq"
     },
     {
       "title": "telegram",
       "color": "#1da1f2",
-      "url": "https://t.me/PixivLips",
+      "url": "https://t.me/+nzwWEvMeRXw1YjE1",
       "icon": "telegram"
     },
     {
       "title": "github",
       "color": "#000000",
-      "url": "https://github.com/kasuie",
+      "url": "https://github.com/Dreamkaka",
       "icon": "github"
     },
     {
       "title": "twitter",
       "color": "#1da1f2",
-      "url": "https://twitter.com/kasuie3",
+      "url": "https://twitter.com/Dreamkaka3",
       "icon": "twitter"
     },
     {
       "title": "email",
       "color": "#fd3232",
-      "url": "mailto:i@kasuie.cc",
+      "url": "mailto:457970652@qq.com",
       "icon": "email"
     },
     {
       "title": "steam",
       "color": "#000000",
-      "url": "https://s.team/p/fhwd-fwbn/NWWVGPJV",
+      "url": "https://steamcommunity.com/id/Dreamkaka/",
       "icon": "steam"
     },
     {
       "title": "bilibili",
       "color": "#0088cc",
-      "url": "https://space.bilibili.com/85447052",
+      "url": "https://space.bilibili.com/516951032",
       "icon": "bilibili"
     }
   ],
   "sites": [
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://kasuie.cc",
+      "icon": "https://f003.backblazeb2.com/file/pic-pan/1681579785696.jpg",
+      "title": "晓寒的blog",
+      "url": "https://blog.xiaohan-kaka.top",
       "desc": "博客主页"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "Mio 导航",
-      "url": "https://nav.kasuie.cc",
-      "desc": "Mio 网站导航"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "KASUIEのAI",
-      "url": "https://ai.kasuie.cc",
-      "desc": "ChatGPT"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "KASUIEの库",
-      "url": "https://dist.kasuie.cc",
+      "icon": "https://cdn.oplist.org/gh/OpenListTeam/Logo@main/logo.svg",
+      "title": "晓寒の网盘",
+      "url": "https://pan.xiaohan-kaka.top",
       "desc": "网盘挂载程序"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/0d2e7fe7-3cca-4989-9bb4-4a39cee77801.png!cover",
-      "title": "KASUIEの图床",
-      "url": "https://upload.kasuie.cc",
-      "desc": "图床服务"
+      "icon": "https://f003.backblazeb2.com/file/blog-v3/logo.png",
+      "title": "晓寒重工",
+      "url": "https://misskey.xiaohan-kaka.top",
+      "desc": "misskey"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "监控服务",
-      "url": "https://status.kasuie.cc/status",
-      "desc": "服务程序监控"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEのDocs",
-      "url": "https://docs.kasuie.cc",
-      "desc": "文档服务"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
+      "icon": "",
       "title": "杂七杂八",
       "desc": "阿巴阿巴..."
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "喜好生成表",
-      "url": "https://like.kasuie.cc",
-      "desc": "个人喜好生成表"
+      "icon": "https://avatars.githubusercontent.com/u/197911947?s=48&v=4",
+      "title": "基于vits-simple-api的astrbot tts合成插件",
+      "url": "https://github.com/Dreamkaka/astrbot_plugin_spvits",
+      "desc": "astrbot_plugin_spvits"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://hexo.kasuie.cc",
-      "desc": "Hexo版本博客程序"
+      "icon": "https://avatars.githubusercontent.com/u/197911947?s=48&v=4",
+      "title": "astrbot-魔搭绘图api",
+      "url": "astrbot_plugin_draw-md",
+      "desc": "astrbot尝试接入魔搭绘图api"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v3.kasuie.cc",
-      "desc": "上版本的博客程序(服务关了"
+      "icon": "https://koishi.chat/logo.png",
+      "title": "koishi绝地潜兵2战役信息插件",
+      "url": "https://www.npmjs.com/package/koishi-plugin-hd2",
+      "desc": "koishi-plugin-hd2"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v2.kasuie.cc",
-      "desc": "早期博客主题(v2)"
+      "icon": "https://koishi.chat/logo.png",
+      "title": "koishi-vrchat插件",
+      "url": "https://www.npmjs.com/package/koishi-plugin-vrc-tools",
+      "desc": "koishi-plugin-vrc-tools"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v1.kasuie.cc",
-      "desc": "早期博客主题(v1)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v0.kasuie.cc",
-      "desc": "早期博客主题(v0)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
-      "title": "KASUIEの导航",
-      "url": "https://pixlips.github.io",
-      "desc": "导航页(beta)"
+      "icon": "https://koishi.chat/logo.png",
+      "title": "koishi podirs预警平台插件",
+      "url": "https://www.npmjs.com/package/koishi-plugin-podris",
+      "desc": "koishi-plugin-podris"
     }
   ],
   "sitesConfig": {
+    "cardStyle": "default",
+    "direction": "row",
+    "modalTitle": "杂项",
+    "modalTips": "写的一些烂东西，主要是机器人插件为主",
     "hidden": false,
-    "cardStyle": "",
     "hoverBlur": true,
     "hoverScale": true,
     "hoverFlip": true,
-    "direction": "row",
-    "modal": true,
-    "modalTips": "这里大多都是初学时开发的，算是练手的，技术力不高，看起来也很不好看，算是黑历史，但也算是一段记忆的载体了，所以我想把它保存在此。",
-    "modalTitle": ""
+    "modal": true
   },
   "socialConfig": {
     "autoAnimate": true,
@@ -199,81 +173,76 @@
     "ripple": true
   },
   "sliders": {
+    "title": "技能加点",
+    "color": "linear-gradient(to right, #ffafbd 0%, #c9ffbf 100%)",
+    "column": 4,
+    "hidden": false,
     "data": [
       {
         "title": "JavaScript/TypeScript",
-        "value": 70,
+        "value": 50,
         "icon": "qq"
       },
       {
         "title": "CSS/CSS3",
-        "value": 70,
+        "value": 30,
         "icon": "qq"
       },
       {
         "title": "React",
-        "value": 40,
+        "value": 35,
         "icon": "qq"
       },
       {
         "title": "Vue",
-        "value": 60,
+        "value": 30,
         "icon": "qq"
       },
       {
         "title": "Next.js",
-        "value": 50
+        "value": 35
       },
       {
         "title": "Nuxt.js",
-        "value": 20
+        "value": 32
       },
       {
         "title": "Three.js",
-        "value": 10
+        "value": 5
       },
       {
         "title": "Node.js",
-        "value": 30
+        "value": 35
       },
       {
         "title": "Electron",
         "value": 5
       },
       {
-        "title": "Spring Boot",
-        "value": 40
-      },
-      {
         "title": "Linux",
         "value": 60
       },
       {
-        "title": "Mysql",
-        "value": 55
+        "title": "Python",
+        "value": 25
       },
       {
         "title": "Docker",
-        "value": 45
+        "value": 50
       }
-    ],
-    "title": "技能加点",
-    "color": "linear-gradient(to right, #ffafbd 0%, #c9ffbf 100%)",
-    "hidden": false,
-    "column": 4
+    ]
   },
   "footer": {
-    "text": "© 2020 - 2025 By KASUIE",
-    "url": "https://kasuie.cc",
-    "ICP": "ICP备xxxxxxxx号",
-    "MPSICP": "京公网安备xxxxxxxx号",
+    "text": "© 2023 - 2025 By Dreamkaka",
+    "url": "https://xiaohao-kaka.top",
+    "ICP": null,
+    "MPSICP": null,
     "direction": "col-reverse",
     "isExternal": true
   },
   "resources": {
     "css": [],
     "js": [],
-    "bodyHtml": ""
-  },
-  "domain": "https://remio-home.vercel.app"
+    "bodyHtml": null
+  }
 }
