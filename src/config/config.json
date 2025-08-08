@@ -8,17 +8,17 @@
     "src": "https://f003.backblazeb2.com/file/blog-v3/120887894_p1.jpg",
     "size": 150,
     "round": "full",
-    "style": "wave",
+    "style": "null",
     "hoverAnimate": "top",
     "hidden": false,
     "aloneRight": false
   },
   "bgConfig": {
     "bg": [
-      "https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp"
+      "https://pximg.xiaohan-kaka.top/img-original/img/2024/01/19/13/29/52/115293810_p0.png"
     ],
     "mbg": [
-      "https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"
+      "https://pximg.xiaohan-kaka.top/img-original/img/2024/12/20/12/08/41/125350586_p0.png"
     ],
     "audio": null,
     "bgStyle": "snow",
